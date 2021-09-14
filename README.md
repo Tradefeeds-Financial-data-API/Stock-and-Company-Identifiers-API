@@ -22,7 +22,7 @@ Tradefeeds' customers have a diverse background - from developers who build thei
 
 <h2>Documentation</h2>
 
-Our <a href="https://tradefeeds.com/documentation" rel="nofollow">documentation</a> includes input API filtering parameters, output response objects with explanation of their meaning. Clear request and response examples are given on the documentation page. Furthermore, we provide SDKs for Javascript, JQuery, VueJS, Angular, JAVA, PHP, NodeJS, Python, Go, Ruby, C#, R, Strest, Rust, Swift and Scala
+Our <a href="https://tradefeeds.com/api-documentation/" rel="nofollow"> documentation</a>  includes input API filtering parameters, output response objects with explanation of their meaning. Clear request and response examples are given on the documentation page. Furthermore, we provide SDKs for Javascript, JQuery, VueJS, Angular, JAVA, PHP, NodeJS, Python, Go, Ruby, C#, R, Strest, Rust, Swift and Scala
 
 <h2>Request and response examples</h2>
 
