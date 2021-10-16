@@ -26,11 +26,43 @@ Our <a href="https://tradefeeds.com/api-documentation/" rel="nofollow"> documen
 
 <h2>Request and response examples</h2>
 
--- problem 
+<p><a href="https://tradefeeds.com/api-documentation/">https://tradefeeds.com/api/v1/identifiers
+    ?key=YOUR-KEY
+        &stock_ticker_symbol=aapl</a></p>
+
+
+
+    "status": {
+        "message": "Success"
+    },
+    "results": [
+        {
+            "name": "Apple Inc",
+            "stock_ticker_symbol": "AAPL"
+            "isin_identifier": "US0378331005"
+            "cik_code": "0000320193"
+            "cusip_number": "037833100"
+            "employer_id": "942404110"
+            "exchange": "nasdaq"
+            "ipo_date": "1980:11:12"
+            "founded_date": "1976:04:01"
+            "industry": "technology"
+            "sector": "consumer electronics"
+        }
+    [
+
+
+The API is filtered for each identifier in order to obtain data on the stock and company identifiers you are interested in. 
+
+
 
 <h2>Customer support</h2>
 
+In case that you encounter a data issue or you want to have more features added to the API, please contact us at support@tradefeeds.com. 
+
 <h2>Legal</h2>
+
+<p> The use of Tradefeeds proprietary data and API database is subject to the&nbsp;<a href="https://tradefeeds.com/terms-and-conditions-on-data/">Tradefeeds Terms &amp; Conditions.</a></p>
 
 
 
